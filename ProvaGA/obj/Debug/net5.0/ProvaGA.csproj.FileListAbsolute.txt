@@ -1,0 +1,15 @@
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.csproj.AssemblyReference.cache
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.AssemblyInfoInputs.cache
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.AssemblyInfo.cs
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.csproj.CoreCompileInputs.cache
+/Users/gabrielfernandes/Repos/ProvaGA/bin/Debug/net5.0/ProvaGA.deps.json
+/Users/gabrielfernandes/Repos/ProvaGA/bin/Debug/net5.0/ProvaGA.runtimeconfig.json
+/Users/gabrielfernandes/Repos/ProvaGA/bin/Debug/net5.0/ProvaGA.runtimeconfig.dev.json
+/Users/gabrielfernandes/Repos/ProvaGA/bin/Debug/net5.0/ProvaGA.dll
+/Users/gabrielfernandes/Repos/ProvaGA/bin/Debug/net5.0/ref/ProvaGA.dll
+/Users/gabrielfernandes/Repos/ProvaGA/bin/Debug/net5.0/ProvaGA.pdb
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.dll
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ref/ProvaGA.dll
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.pdb
+/Users/gabrielfernandes/Repos/ProvaGA/obj/Debug/net5.0/ProvaGA.genruntimeconfig.cache
